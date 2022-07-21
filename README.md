@@ -2,4 +2,4 @@
 
 *Introdução ao HTML5*
 
-*CSS*
+*CSS3*
