@@ -1,0 +1,57 @@
+body {
+    background: rgb(246, 245, 245);
+    width: 900px;
+    margin: auto;
+}
+
+.logo_Santander {
+    border: lpx solid #505050;
+    border-radius: 50px;
+    height: 80px;
+}
+
+#title,
+.subtitle
+{
+    color: rgb(138, 43, 226)
+}
+
+.post_title {
+    margin: 0;
+    margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration:underline;
+}
+
+.post {
+    font-size: 16px;
+    font-style: italic;
+    background: #fff;
+    background-color: rgb(243, 243, 224);
+    padding: 15px;
+    border: 1px dashed rgb(175, 28, 28);
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.post_image {
+    margin-bottom: 15px;
+}
+
+.contact_list {
+    list-style-type: circle none;
+    padding-left: 15px;
+}
+
+.contact_list li a {
+    text-decoration: none;
+}
